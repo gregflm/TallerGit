@@ -6,6 +6,10 @@ public class Main {
 
 		System.out.println("Segundo Commit");
 		
+				System.out.println("Sincroniza con eclipse team> remote > fetch from");
+
+		
+		
 	}
 
 }
